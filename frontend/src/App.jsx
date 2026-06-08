@@ -80,7 +80,7 @@ export default function App() {
       </div>
 
       {/* ── RIGHT PANEL: HUD Console (1/3) ── */}
-      <div className="w-1/3 h-full flex flex-col gap-3 p-5 pl-0 overflow-y-auto">
+            <div className="w-1/3 h-full flex flex-col gap-3 p-5 pl-0 overflow-y-auto">
         {/* Header */}
         <div className="flex items-center justify-between flex-shrink-0">
           <div className="flex items-center gap-2">
